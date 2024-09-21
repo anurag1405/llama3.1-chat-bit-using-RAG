@@ -4,7 +4,7 @@ import requests
 import tempfile
 
 # API URL
-API_URL = "http://localhost:8000"  # Change this to your FastAPI server address
+API_URL = "http://localhost:8000"  
 
 st.title('RAG with LLaMA 3.1 - Client Interface')
 
